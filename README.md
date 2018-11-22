@@ -1,3 +1,3 @@
-# Information-Security
+# Information Security
 
-Assignments of Information Security practical lab.
+Assignments of Information Security practical lab. [Deprecated]
